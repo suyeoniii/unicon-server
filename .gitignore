@@ -1,0 +1,13 @@
+node_modules
+/dist
+.cache
+
+.env.development
+.env.production
+
+# IDE
+.vscode
+.idea
+
+# OS metadata
+.DS_Store
